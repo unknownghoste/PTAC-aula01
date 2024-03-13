@@ -1,12 +1,3 @@
-
-export default function Home() {
-  return (
-    <main>
-     
-    </main>
-  );
-}
-
 const url = "http://localhost:3000/api";
 
 export default async function Home() {
